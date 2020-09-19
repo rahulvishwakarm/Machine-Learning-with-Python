@@ -1,0 +1,38 @@
+What is Machine learning?
+-Machine learning provides an ablity to machine to learn automatically through experience without being explicitly programmed.
+
+Types of Machine learning?
+ - Supervised Learning[Labelled data->Known Output]
+    - Linear Regression
+    - Logistic Regression
+    - Support Vector Machine
+    - K Nearest Neighbour
+    - Random Forest
+ - UnSupervised Learning[Unlabelled data->Output]
+    - K-Means
+    - Apriori
+    - C-Means
+ - Reinforcement Learning[Self Learn and Build data-> Make Ouput][Rewards or Punishment]
+    - Q-Learning
+    - SARSA
+
+> Supervised Learning: In Supervised machine learning ,machine learn through labelled data and build an algorithm to make prediction.
+    - Regression->Linear,Multiple and Logistic Regression
+    - Classification
+> UnSupervied Learning: In UnSupervised machine learning ,machine learn through Unlabelled data and bulid an algorithm to make prediction.
+    - Association->Apriori
+    - Clustering->K,C-Means
+> Reinforcement Learning: In Reinforcement learning ,machine is left at specific place in which machine explore the environment and based on data received it build an algorithm to make prediction.
+    - Puzzle
+
+Applications:
+> Supervised Learning
+    - Risk Evaluation
+    - Forecast Sales
+> UnSupervised Learning
+    - Recommendation Systems
+    - Anomaly Detection
+> Reinforcement Learning
+    - Self Driving Cars
+    - Gaming
+
